@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\waypoint-generator"
+  ],
+  "SelectedNode": "\\.dockerignore",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sP1ZqsgLkNw1BWf7MLsZaSVAnIlvuOzp54CVG8HW+V8=",
+  "Source": "waypoint-generator",
+  "BasePath": "_content/waypoint-generator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
